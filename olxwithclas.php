@@ -22,9 +22,11 @@
         else {
 
             while (false !== ($entry = readdir($handle))) {
-                echo '<img src=".$entry." />';
+                if($entry!="." && $entry!="..") {
+                    echo '<img style="width:100px; height: 105px;" src="imges/' . $entry . '" />';
+                }
             }
-
+//            echo '<img src="imges/$entry" />';
 
 
             $asoc = [

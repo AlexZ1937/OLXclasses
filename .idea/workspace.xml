@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1jT804hcaOEnYcHcyoQUqPo9dNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\student\PhpstormProjects\untitled2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\PhpstormProjects\untitled2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.olxwithclas.php">
+    <configuration name="olxwithclas.php" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/untitled2/olxwithclas.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled2" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="olxclasses.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/olxclasses.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="olxwithclas.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/olxwithclas.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.olxwithclas.php" />
+        <item itemvalue="PHP Script.olxclasses.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="" />
+      <created>1603816495132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603816495132</updated>
+      <workItem from="1603816496179" duration="7329000" />
+      <workItem from="1603901518950" duration="7861000" />
+      <workItem from="1603986417211" duration="3715000" />
+      <workItem from="1603991792091" duration="387000" />
+      <workItem from="1603992918457" duration="3775000" />
+      <workItem from="1604072923881" duration="2036000" />
+      <workItem from="1604331654890" duration="1808000" />
+      <workItem from="1604507342428" duration="3756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="547" y="173" key="#CLI_Interpreters" timestamp="1603816526221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="173" key="#CLI_Interpreters/0.0.1920.1040@0.0.1920.1040" timestamp="1603816526221" />
+    <state x="674" y="161" key="#PHP" timestamp="1603816532851">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="674" y="161" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1603816532851" />
+    <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1603901543445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603901543445" />
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1603991723276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603991723276" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1603991723276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603991723276" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1603991723276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603991723276" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1603991723276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603991723276" />
+    <state x="743" y="241" key="NewPhpClassDialog" timestamp="1603818500789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="743" y="241" key="NewPhpClassDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603818500789" />
+    <state x="795" y="442" key="NewPhpFileDialog" timestamp="1604508320835">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604508320835" />
+  </component>
+</project>

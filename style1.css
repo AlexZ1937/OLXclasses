@@ -1,0 +1,71 @@
+.one
+{
+    width: 100%;
+    height: 10%;
+    background-color: cadetblue;
+    color: brown;
+}
+
+
+.btn1
+{
+    background-color: darkred;
+    color: white;
+
+}
+
+.header
+{
+    margin-left: 38%;
+    font-size: 25px;
+    width: 400px;
+    text-align: center;
+}
+.date
+{
+    margin-left: 45%;
+    font-size: 22px;
+    width: 200px;
+    height: 50px;
+}
+
+
+
+.im
+{
+    width: 185px;
+    height: 100%;
+    float: left;
+}
+.sell
+{
+    border: 1px solid black;
+    font-size: 20px;
+    height: 200px;
+    width: 100%;
+}
+.top
+{
+    position: absolute;
+    background: aqua;
+    width: 45px;
+    margin-top: 177px;
+}
+.main
+{
+    margin-top: 5%;
+    margin-left: 20%;
+    width: 70%;
+    height: 100%;
+}
+
+.btnPages
+{
+    float: left;
+    width: 100px;
+    height: 40px;
+    font-size: 25px;
+
+    background-color: darkgray;
+    margin-left: 15px;
+}

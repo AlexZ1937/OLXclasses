@@ -87,7 +87,8 @@ function ShowAd()
             if($value->GetName()== $_GET['id'])
             {
                 $info=new  Info($value->GetName(),$value->GetPlace(),$value->GetTime(),$value->GetImage(),$value->GetPrice(),$value->GetTopic(),$value->GetInfMore(),$value->GetClicks());
-                //$info=$value;break;
+                //$info=$value;
+                break;
             }
         }
         $ad->RenderFullDesc($info);

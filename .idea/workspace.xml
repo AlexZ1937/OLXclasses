@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e2d6530a-5af0-4490-8533-300eb4d6c624" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blockinfo.php" beforeDir="false" afterPath="$PROJECT_DIR$/blockinfo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/olxwithclas.php" beforeDir="false" afterPath="$PROJECT_DIR$/olxwithclas.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +75,24 @@
       <workItem from="1603992918457" duration="3775000" />
       <workItem from="1604072923881" duration="2036000" />
       <workItem from="1604331654890" duration="1808000" />
-      <workItem from="1604507342428" duration="4265000" />
+      <workItem from="1604507342428" duration="6561000" />
     </task>
+    <task id="LOCAL-00001" summary="break">
+      <created>1604512080543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604512080544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="break" />
+    <option name="LAST_COMMIT_MESSAGE" value="break" />
   </component>
   <component name="WindowStateProjectService">
     <state x="547" y="173" key="#CLI_Interpreters" timestamp="1603816526221">
@@ -91,6 +103,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="161" key="#PHP/0.0.1920.1040@0.0.1920.1040" timestamp="1603816532851" />
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1604512079992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1604512079992" />
     <state x="740" y="273" key="FileChooserDialogImpl" timestamp="1603901543445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -127,5 +143,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="795" y="442" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604508320835" />
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2" timestamp="1604512084729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="251" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604512084729" />
   </component>
 </project>
